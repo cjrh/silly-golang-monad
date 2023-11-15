@@ -1,6 +1,6 @@
 # silly-golang-monad
 
-*Disclosure: I don't really know Go expert, I was just experimenting!*
+*Disclosure: I don't really know Go, I was just experimenting!*
 
 This is the `main.go` module:
 
